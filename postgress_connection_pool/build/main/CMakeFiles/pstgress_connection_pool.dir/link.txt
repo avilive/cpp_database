@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\pstgress_connection_pool.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\pstgress_connection_pool.dir/objects.a @CMakeFiles\pstgress_connection_pool.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -std=c++17 -pthread -O3 -pedantic -Wall -Werror -g -Wl,--whole-archive CMakeFiles\pstgress_connection_pool.dir/objects.a -Wl,--no-whole-archive -o pstgress_connection_pool.exe -Wl,--out-implib,libpstgress_connection_pool.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\pstgress_connection_pool.dir\linklibs.rsp

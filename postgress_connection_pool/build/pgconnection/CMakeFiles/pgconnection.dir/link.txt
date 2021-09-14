@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libpgconnection.a CMakeFiles/pgconnection.dir/src/pgconnection.cpp.obj
+C:\MinGW\bin\ranlib.exe libpgconnection.a

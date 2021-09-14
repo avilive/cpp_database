@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libpgbackend.a CMakeFiles/pgbackend.dir/src/pgbackend.cpp.obj
+C:\MinGW\bin\ranlib.exe libpgbackend.a

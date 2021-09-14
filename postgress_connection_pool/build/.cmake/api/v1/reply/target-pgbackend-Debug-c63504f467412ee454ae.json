@@ -1,0 +1,117 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "pgbackend/libpgbackend.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"pgbackend/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 24,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-std=c++17 -pthread -O3 -pedantic -Wall -Werror -g"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "G:/GIT/cpp_database/cpp_database/postgress_connection_pool/pgbackend/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/MinGW/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "G:/Postgress BD/include/server"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "G:/GIT/cpp_database/cpp_database/postgress_connection_pool/pgconnection/include/pgconnection"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "pgconnection::@b9c0c6ac9ee46fe1a0b0"
+		}
+	],
+	"id" : "pgbackend::@26e3febec2b3cc3bf008",
+	"name" : "pgbackend",
+	"nameOnDisk" : "libpgbackend.a",
+	"paths" : 
+	{
+		"build" : "pgbackend",
+		"source" : "pgbackend"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "pgbackend/src/pgbackend.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

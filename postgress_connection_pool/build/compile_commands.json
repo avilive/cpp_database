@@ -1,0 +1,17 @@
+[
+{
+  "directory": "G:/GIT/cpp_database/cpp_database/postgress_connection_pool/build/pgconnection",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/pgconnection.dir/includes_CXX.rsp -std=c++17 -pthread -O3 -pedantic -Wall -Werror -g -o CMakeFiles\\pgconnection.dir\\src\\pgconnection.cpp.obj -c G:\\GIT\\cpp_database\\cpp_database\\postgress_connection_pool\\pgconnection\\src\\pgconnection.cpp",
+  "file": "G:/GIT/cpp_database/cpp_database/postgress_connection_pool/pgconnection/src/pgconnection.cpp"
+},
+{
+  "directory": "G:/GIT/cpp_database/cpp_database/postgress_connection_pool/build/pgbackend",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/pgbackend.dir/includes_CXX.rsp -std=c++17 -pthread -O3 -pedantic -Wall -Werror -g -o CMakeFiles\\pgbackend.dir\\src\\pgbackend.cpp.obj -c G:\\GIT\\cpp_database\\cpp_database\\postgress_connection_pool\\pgbackend\\src\\pgbackend.cpp",
+  "file": "G:/GIT/cpp_database/cpp_database/postgress_connection_pool/pgbackend/src/pgbackend.cpp"
+},
+{
+  "directory": "G:/GIT/cpp_database/cpp_database/postgress_connection_pool/build/main",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/pstgress_connection_pool.dir/includes_CXX.rsp -std=c++17 -pthread -O3 -pedantic -Wall -Werror -g -o CMakeFiles\\pstgress_connection_pool.dir\\main.cpp.obj -c G:\\GIT\\cpp_database\\cpp_database\\postgress_connection_pool\\main\\main.cpp",
+  "file": "G:/GIT/cpp_database/cpp_database/postgress_connection_pool/main/main.cpp"
+}
+]

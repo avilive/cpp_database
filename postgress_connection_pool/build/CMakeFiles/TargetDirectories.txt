@@ -1,0 +1,15 @@
+G:/GIT/cpp_database/cpp_database/postgress_connection_pool/build/CMakeFiles/rebuild_cache.dir
+G:/GIT/cpp_database/cpp_database/postgress_connection_pool/build/CMakeFiles/test.dir
+G:/GIT/cpp_database/cpp_database/postgress_connection_pool/build/CMakeFiles/edit_cache.dir
+G:/GIT/cpp_database/cpp_database/postgress_connection_pool/build/pgconnection/CMakeFiles/edit_cache.dir
+G:/GIT/cpp_database/cpp_database/postgress_connection_pool/build/pgconnection/CMakeFiles/pgconnection.dir
+G:/GIT/cpp_database/cpp_database/postgress_connection_pool/build/pgconnection/CMakeFiles/rebuild_cache.dir
+G:/GIT/cpp_database/cpp_database/postgress_connection_pool/build/pgconnection/CMakeFiles/test.dir
+G:/GIT/cpp_database/cpp_database/postgress_connection_pool/build/pgbackend/CMakeFiles/edit_cache.dir
+G:/GIT/cpp_database/cpp_database/postgress_connection_pool/build/pgbackend/CMakeFiles/pgbackend.dir
+G:/GIT/cpp_database/cpp_database/postgress_connection_pool/build/pgbackend/CMakeFiles/rebuild_cache.dir
+G:/GIT/cpp_database/cpp_database/postgress_connection_pool/build/pgbackend/CMakeFiles/test.dir
+G:/GIT/cpp_database/cpp_database/postgress_connection_pool/build/main/CMakeFiles/pstgress_connection_pool.dir
+G:/GIT/cpp_database/cpp_database/postgress_connection_pool/build/main/CMakeFiles/rebuild_cache.dir
+G:/GIT/cpp_database/cpp_database/postgress_connection_pool/build/main/CMakeFiles/test.dir
+G:/GIT/cpp_database/cpp_database/postgress_connection_pool/build/main/CMakeFiles/edit_cache.dir
